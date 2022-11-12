@@ -1,0 +1,11 @@
+name: CoinsAPI
+version: 1.0
+author: Denny
+main: ch.dennymarti.coinsapi.CoinsPlugin
+
+commands:
+  coins:
+    aliases:
+      - money
+      - geld
+    description: Command to see, add, remove and set coins of players
